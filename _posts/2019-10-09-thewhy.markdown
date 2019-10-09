@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "> "# TheWhy"."
-date:       2019-10-09 14:57:37 +0000
+title:      "The Why...."
+date:       2019-10-09 10:57:38 -0400
 permalink:  thewhy
 ---
 
