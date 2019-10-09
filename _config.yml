@@ -1,11 +1,11 @@
 # Site settings
-author: Erin Abernathy
-title: 
+author: Erin Abernathy 
+title: The Krypto Kween 
 header-img: img/home-bg.png
 email: ecmabernathy@gmail.com
-copyright_name: Erin Abernathy
+copyright_name: Erin Abernathy 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coinzzzzz
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ECMABERNATHY
