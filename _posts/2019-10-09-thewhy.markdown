@@ -1,21 +1,20 @@
 ---
 layout: post
-title:      "The Why...."
+title:      "Its time for a change..."
 date:       2019-10-09 10:57:38 -0400
 permalink:  thewhy
 ---
 
+I wrote this blog post originally last year, so going back and reading it was an interesting retrospective to begin writing a new draft. 
 
-I started this journey by accident, several years ago. I do a lot of my thinking and life scheming in the shower... I decided that working in the wine industry after almost a decade no longer served me purpose. So, each night after I made my two hour commute home, I would eat, and shower and plan how I was 1) going to break into tech and 2) work for a tech company in San Francisco. 
+I was at the time working at my current company, Coinbase as an Executive Assistant in the Finance Department. I knew I wanted to attend a Software Engineering program, so the part time Flatiron School education track ticked all of the boxes. Little did I know, I really wasnt ready for the commitment, even though I wanted this so bad. There is a time and a place for everything, or so I believe. 
 
-Here is why... San Francisco is by far my most favorite city in the world. Yes, I said it. While I do love New York, LA and other metros around the world, there is something so special about San Francisco... and maybe I just happen to have a little bit of that California born and bred bias. 
+Fast forward to August of 2020. This year has been surreal to say the least. Every facet of my life has changed. I no longer am required to commute into an office in San Francisco five days a week, which is a double edged sword for me. While I love being able to get up in the morning, make myself a pot of coffee and jump right onto my laptop, I do miss the ride on the ferry (especially on the calm waters of a summer morning, with the sun rising over the Golden Gate bridge) and the walk to my office, which gives me those 15 minutes to clear my head, breathe in the electricity of the city, and get excited about my day. I miss the hustle and bustle of the office, but I also immensely appreciate the quiet and calm solitude that my home office provides. I am always connected, so have found that my working days are more jam packed than ever, but I am more productive and more focused. My time management skills have vastly improved in a very short period, thus enabling me to engage in this program fully. 
 
-Through the two years of mindfull intention practice, I finally landed myself in San Francisco, in a real estate tech company. Not quite there, but on the way. During that time, I realized that my true inner self, was actually an introverted self-proclaimed nerd, who just wanted to stay home in a quiet room and learn to code.... who knew? 
+The fact that I will never have to work in an office full time for the foreseeable future has a new set of challenges, but also a greater set of opportunities, in which i feel blessed beyond measure and grateful for. 
 
-The current role wasnt fulfilling that need, so I started dabbling in online coding programs to see what was of interest to me. As luck would have it, a recruiter reached out to me unexpectedly with an offer that I was very skeptical about from the beginning. Cryptocurrency???? Huh???? Hmmmm.... ya, I dont think so... I think I will just stay in this other job that isnt fullfilling... thank you very much! 
+Reevaluating what the next six months would look like for me was not a difficult decision at all given the circumstances. I knew that this would be the ideal time to revisit enrolling in the engineering program through Flatiron School. I am looking forward to having the environemtn to really focus and engage in this program. The next few months will be trying in every way, but I am glad that I listened to my gut instinct to wait until I was really ready to jump in feet first. 
 
-Wait a second, I thought to myself one night in the shower while washing my hair. Why not? What am I afraid of? This is an amazing opportunity and I am sure that I could be on the right track to eventually becoming an engineer... ( which is what I would later confirm as my dream role) 
+I intend to use the skills I gain in the program to advance my career at my current company. I do not know what the future holds, what the next year, five years, let alone six months will have in store, but I know for a fact that this was the right decision. 
 
-Fast forward 1 1/2 years later... and here I am. Working for Coinbase, a crypto enthusiast and on my way to becoming an engineer at my company (hopefully!) 
-
-This is a snapshot of my journey.... I look forward to documenting it here. 
+I am looking forward to this learning process and all that comes with it. 
